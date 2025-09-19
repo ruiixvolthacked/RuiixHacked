@@ -1,5 +1,7 @@
 # RuiixHacked
 
+![RuiixHacked Logo](images/Ruiix.jpg)
+
 RuiixHacked — personal bug bounty toolkit  
 **Ringkasan:** skrip Python interaktif (terminal) untuk membantu rekonsiliasi subdomain, port scanning, nuclei scanning, pengecekan takeover, dan scanning data sensitif. Dibuat untuk *ethical hacking* (hanya untuk target yang kamu miliki izin).
 
