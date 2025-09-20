@@ -70,17 +70,6 @@ https://example.com,https://sub.example.com
 
 ---
 
-## Mengubah tema & folder output
-Buka `RuiixHacked.py` di editor lalu cari:
-```python
-GREEN_THEME = Theme({
-    "logo": "bold green",
-    ...
-})
-DEFAULT_OUTPUT = os.path.join(os.getcwd(), "RuiixHacked_output")
-```
-- Ganti nilai warna (`green`, `bright_green`, `cyan`, dsb) pada `GREEN_THEME`.
-- Ubah `DEFAULT_OUTPUT` ke path yang diinginkan (contoh: `/storage/emulated/0/Ruiix_output`).
 
 ---
 
